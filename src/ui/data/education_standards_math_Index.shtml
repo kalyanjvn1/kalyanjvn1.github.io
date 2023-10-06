@@ -1,0 +1,1011 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/Sprighter-a-newly-of-my-Louer-Entermittlemaine-I" async></script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	
+	<title>Mathematics</title>
+	<link rel="canonical" href="https://www.nj.gov/education/standards/math/Index.shtml" />
+	<meta name="keywords" content=' Mathematics, Math, K-12, 2016 NJSLS, Algebra, Geometry, Standards, NJDOE '/>
+	<meta name="description" content='Mathematics, Math, K-12, 2016 NJSLS, Algebra, Geometry, Standards, NJDOE' />
+	<meta name="modified" content='11/18/2022' />
+	<meta name="editor" content='cbabice' />
+	
+	
+	<link rel="stylesheet" href="/nj/design/bootstrap/css/bootstrap.min.css" />
+	<!--/nj/design/css/bootstrap.min.css-->
+		
+	<link href="/nj/design/css/sonj-components.css?v=2022.04.06" rel="stylesheet" type="text/css" />
+
+	<link href="/nj/design/css/site-base.css?v=2022.04.06" rel="stylesheet" type="text/css" />
+	
+	<link rel="stylesheet" type="text/css" href="/nj/design/util/slick/slick.css" />
+
+	<link rel="stylesheet" type="text/css" href="/nj/design/util/slick/slick-theme.css" />
+
+	<!-- Google Tag Manager -->
+<!-- Added 03/10/22 in education_css.shtml as test of global GTM -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P3V3PJ6');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- CSS for this site -->
+<link rel="stylesheet" type="text/css" href="/education/assets/css/styles.css?v=2023.04.25"> 
+	
+</head>
+<body data-pnav="math" id="education">
+	<div class="skip"><a href="#content">Skip to Content</a></div>
+	<h1 class="sr-only">New Jersey Department of Education</h1>
+	
+	
+	
+	
+<header class="sonj  ">
+	<div class="container-fluid">
+		<div class="row justify-content-center">
+			<div id="logo" class="col-sm-8 col-lg-5 col-xl-5">
+				<h1 class="my-2"><img src="/nj/design/images/state_seal_white.png" alt="State of New Jersey Seal" title="">Official Site of The State of New Jersey</h1>
+			</div>
+			<div class=" col-sm-4 col-lg-5 col-xl-5">
+			  <div class="gov-bar text-right d-none d-lg-block"><a href="https://nj.gov/governor/" target="_blank">Governor Phil Murphy &bull; Lt. Governor Tahesha Way</a> </div>
+			  <ul  class="my-sm-2 my-lg-0 social statewide text-right">
+				<li class="d-none d-lg-inline"><a href="https://nj.gov">NJ.gov</a></li>
+				<li class="d-none d-lg-inline"><a href="https://nj.gov/nj/gov/njgov/alphaserv.html">Services</a></li>
+				<li class="d-none d-lg-inline"><a href="https://nj.gov/nj/gov/deptserv/">Agencies</a></li>
+				<li class="d-none d-lg-inline"><a href="https://nj.gov/faqs/"  aria-label="Frequently asked questions"><span aria-hidden="true">FAQs</span><span class="sr-only">Frequently Asked Questions</span></a></li>
+				<li class="sonj-translate">
+					<a href="https://translate.google.com/">Translate</a>
+					<div class="drop px-4 pb-3">
+
+						<div id="google_translate_element"></div><script type="text/javascript">
+						function googleTranslateElementInit() {
+						  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.VERTICAL}, 'google_translate_element');
+						}
+						</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+						<p class="disclaimer pt-3">The State of NJ site may contain optional links, information, services and/or content from other websites operated by third parties that are provided as a convenience, such as Google™ Translate. Google™ Translate is an online service for which the user pays nothing to obtain a purported language translation. The user is on notice that neither the State of NJ site nor its operators review any of the services, information and/or content from anything that may be linked to the State of NJ site for any reason. -<a href="https://nj.gov/nj/home/disclaimer.html" target="_blank"><strong>Read Full Disclaimer <i class="fas fa-link"></i></strong></a></p>
+						<button type="button" class="pl-0 btn btn-link float-left drop-close"><i class="fas fa-times-circle"></i> close</button>
+					</div>
+				</li>
+				<!-- Add sign up header menu item -->
+				<li class="sonj-updates">
+					<a href="https://nj.gov/subscribe/" id="updates-label"  role="button">Get Updates <i class="fas fa-envelope"></i></a>
+					<div class="drop px-4 pb-3 pt-3 text-left">
+						<script src="https://beta.nj.gov/global-signup/embed.js"></script>
+						<div class="global-signup-header pb-5"></div>
+						<button type="button" class="pl-0 btn btn-link drop-close" ><i class="fas fa-times-circle"></i> close</button>
+					</div>
+				</li>
+				<li class="sonj-search">
+					<a href="https://nj.gov/search/" id="search-label"  role="button">Search <i class="fas fa-search"></i></a>
+					<div class="drop px-4 pb-3">
+						<form id="search" action="https://nj.gov/search/" name="search">
+							<div class="input-group pt-4">
+								<input type="text" class="form-control p-1" placeholder="Type Search Here" aria-label="Search Query" aria-describedby="search-label" name="qt" id="qt">
+								<div class="input-group-append">
+									<button type="submit" class="input-group-text"  aria-label="Submit Search"><i class="fas fa-search"></i></button>
+								</div>
+							</div>
+						</form>
+						<button type="button" class="pl-0 btn btn-link float-left drop-close"><i class="fas fa-times-circle"></i> close</button>
+					</div>
+				</li>
+			  </ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+
+
+	
+	
+
+<div class="container-fluid sonj-nav education department-level global-navigation branch-education"> 
+	<div class="row justify-content-center ">
+		<div id="" class="col-12 col-xl-10">
+			<nav class="navbar disabled-navbar-expand-lg navbar-dark x-bg-light px-0 justify-content-between">
+			  <h2 class="navbar-brand x-mr-auto disabled-d-lg-none"><a href='/education/'>Department of Education</a></h2>
+			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-global" aria-controls="navbar-global" aria-expanded="false" aria-label="Toggle  Department of Education navigation">
+				<span class="navbar-toggler-icon"></span>
+			  </button>
+
+			  <div class="collapse navbar-collapse" id="navbar-global">
+				<ul class="navbar-nav mr-auto x-nav-pills">
+
+
+	<li class="nav-item  pr-4" id="education-pNav1" data-pnav="home"><a class="nav-link " href="https://nj.gov/education/" data-sNav_scalar="0"  >Home <i class="fas fa-home"></i></a>
+	</li>
+	<li class="nav-item dropdown pr-4" id="education-pNav2" data-pnav="about"><a class="nav-link dropdown-toggle" href="/education/about" data-sNav_scalar="8" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >About the DOE</a>
+		<ul class="dropdown-menu" aria-labelledby="education-pNav2">
+			<li><a href="/education/about/index.shtml" class="dropdown-item">Mission and Vision</a>
+			</li>
+			<li><a href="/education/about/commissioner" class="dropdown-item">Office of the Commissioner</a>
+			</li>
+			<li><a href="/education/about/counties" class="dropdown-item">County Offices of Education</a>
+			</li>
+			<li><a href="/education/about/divisions" class="dropdown-item">Divisions & Offices</a>
+			</li>
+			<li><a href="/education/about/org" class="dropdown-item">Organization Chart</a>
+			</li>
+			<li><a href="/education/about/directions" class="dropdown-item">Locations & Directions</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item  pr-4" id="education-pNav3" data-pnav="sboehome"><a class="nav-link " href="https://www.nj.gov/education/sboe/" data-sNav_scalar="0"  >State Board of Education</a>
+	</li>
+	<li class="nav-item  pr-4" id="education-pNav4" data-pnav="atoz"><a class="nav-link " href="/education/atoz" data-sNav_scalar="0"  >DOE: A to Z</a>
+	</li>
+	<li class="nav-item  pr-4" id="education-pNav5" data-pnav="educatorshome"><a class="nav-link " href="/education/educators/" data-sNav_scalar="0"  >Teachers</a>
+	</li>
+	<li class="nav-item  pr-4" id="education-pNav6" data-pnav="familieshome"><a class="nav-link " href="/education/families/" data-sNav_scalar="0"  >Families</a>
+	</li>
+	<li class="nav-item  pr-4" id="education-pNav7" data-pnav="administratorshome"><a class="nav-link " href="/education/administrators/" data-sNav_scalar="0"  >Administrators</a>
+	</li>
+	<li class="nav-item  pr-4" id="education-pNav8" data-pnav="newshome"><a class="nav-link " href="/education/news/" data-sNav_scalar="0"  >News</a>
+	</li>
+	<li class="nav-item  pr-4" id="education-pNav11" data-pnav="contact"><a class="nav-link " href="/education/contact" data-sNav_scalar="0"  >Contact Us</a>
+	</li>
+
+
+				</ul>
+			  </div>
+			</nav>
+		</div>
+	</div>
+</div>
+
+
+		
+
+	
+	<div class="container-fluid d-none d-lg-block"> 
+	  <div class="row justify-content-center ">
+		<div id="site-name" class="department col-12 col-xl-10 py-3">
+			<h2 class=""><a href="/education/standards/"><img src="/education/assets/img/doe-seal.png" alt="State of New Jersey, Department of Education logo" title="" class="dept-logo pr-1"><span class="align-middle department">New Jersey Student Learning Standards</span></a></h2>
+		</div>
+	  </div>
+	</div>
+
+	
+	<!-- Google Tag Manager (noscript) -->
+<!-- Added 03/10/22 in social.shtml as test of global GTM -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3V3PJ6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<aside>
+	<div class="x-container-fluid d-none d-sm-inline sticky-social">
+		<!--
+		<div class="row justify-content-end">
+			<div class="col-sm-1 p-0">
+		-->
+				<a href="" class="toggle-sticky"><i class="fas fa-angle-double-right fa-1x sonj-gray toggle-target"></i><i class="fas fa-angle-double-left fa-1x sonj-gray d-none  toggle-target"></i><span class="sr-only">Toggle Social Links Open/Close</span></a>
+				<a href="https://twitter.com/NewJerseyDOE" class=" toggle-target"><i class="fab fa-twitter-square fa-2x sonj-gray"></i><span class="sr-only">Twitter</span></a> 
+				<a href="https://www.facebook.com/njdeptofed/" class=" toggle-target"><i class="fab fa-facebook-square fa-2x sonj-gray"></i><span class="sr-only">Facebook</span></a> 
+				<a href="https://www.instagram.com/newjerseydoe/" class=" toggle-target"><i class="fab fa-instagram fa-2x sonj-gray"></i><span class="sr-only">Instagram</span></a> 
+				
+		<!--
+			</div>
+		</div>
+		-->
+	</div>
+</aside>
+	
+	
+	
+
+<div class="container-fluid sonj-nav education department-level branch-navigation branch-education_standards"> 
+	<div class="row justify-content-center ">
+		<div id="" class="col-12 col-xl-10">
+			<nav class="navbar navbar-expand-lg navbar-dark x-bg-light px-0 justify-content-between">
+			  <h2 class="navbar-brand x-mr-auto d-lg-none"><a href='/education/standards/'>New Jersey Student Learning Standards</a></h2>
+			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-site" aria-controls="navbar-site" aria-expanded="false" aria-label="Toggle New Jersey Student Learning Standards navigation">
+				<span class="navbar-toggler-icon"></span>
+			  </button>
+
+			  <div class="collapse navbar-collapse" id="navbar-site">
+				<ul class="navbar-nav mr-auto x-nav-pills">
+
+
+	<li class="nav-item  pr-4" id="education-standards-pNav1" data-pnav="home"><a class="nav-link " href="/education/standards/index.shtml" data-sNav_scalar="0"  >NJSLS Home <i class="fas fa-home"></i></a>
+	</li>
+	<li class="nav-item dropdown pr-4" id="education-standards-pNav14" data-pnav="contentnav"><a class="nav-link dropdown-toggle" href="/education/standards/contentnav" data-sNav_scalar="9" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Content Areas</a>
+		<ul class="dropdown-menu" aria-labelledby="education-standards-pNav14">
+			<li><a href="/education/standards/clicks/index.shtml" class="dropdown-item">Career Readiness, Life Literacies & Key Skills</a>
+			</li>
+			<li><a href="/education/standards/chp/index.shtml" class="dropdown-item">Comprehensive Health and Physical Education</a>
+			</li>
+			<li><a href="/education/standards/compsci/Index.shtml" class="dropdown-item">Computer Science & Design Thinking</a>
+			</li>
+			<li><a href="/education/standards/ela/Index.shtml" class="dropdown-item">English Language Arts</a>
+			</li>
+			<li><a href="/education/standards/math/Index.shtml" class="dropdown-item">Mathematics</a>
+			</li>
+			<li><a href="/education/standards/science/Index.shtml" class="dropdown-item">Science</a>
+			</li>
+			<li><a href="/education/standards/socst/index.shtml" class="dropdown-item">Social Studies</a>
+			</li>
+			<li><a href="/education/standards/vpa/Index.shtml" class="dropdown-item">Visual and Performing Arts</a>
+			</li>
+			<li><a href="/education/standards/worldlang/Index.shtml" class="dropdown-item">World Languages</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item dropdown pr-4" id="education-standards-pNav15" data-pnav="stamp"><a class="nav-link dropdown-toggle" href="/education/standards/stamp" data-sNav_scalar="4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >STAMP</a>
+		<ul class="dropdown-menu" aria-labelledby="education-standards-pNav15">
+			<li><a href="/education/standards/stamp/index.shtml" class="dropdown-item">Standards Transparency and Mastery Platform (STAMP)​</a>
+			</li>
+			<li><a href="/education/standards/stamp/ta" class="dropdown-item">Technical Assistance</a>
+				<ul>
+					<li><a href="/education/standards/stamp/ta/video" class="dropdown-item">Video Library</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+
+
+				</ul>
+			  </div>
+			</nav>
+		</div>
+	</div>
+</div>
+
+
+	<div class="skip"><a name="content"></a></div>
+	<!-- Empty until activated See "Active" example -->
+
+	
+	
+	
+	
+	<div class="container-fluid ">
+		<div class="row justify-content-center mt-3 mb-5">
+			<div class="col col-xl-10">
+
+	
+	<nav aria-label="breadcrumb">
+		<ol class="breadcrumb mb-0">
+ <li class="breadcrumb-item"><a href="/education/">Home</a></li>
+<li class="breadcrumb-item"><a href="/education/standards/">New Jersey Student Learning Standards</a></li>
+<li class="breadcrumb-item active" aria-current="page">Mathematics</li>
+
+		</ol>
+	</nav>
+ 
+
+			</div>
+		</div>
+	</div>
+
+		
+
+	<main>
+
+
+	
+	
+	
+		<div class="container-fluid ">
+			<div class="row justify-content-center  my-5">
+				<div class="col-12 col-md-8 col-xl-7">
+
+	
+					<h2 class="mb-2 pageTitle h3">Mathematics</h2>
+	
+
+
+
+					<section>
+						<p>Successful teaching and learning of mathematics play an important role in ensuring that students have the right skills required to compete in a 21st century global economy. When properly implemented and coupled with opportunities for students to engage in mathematical investigation, communication and problem solving, rigorous mathematics standards hold the promise of elevating the mathematical knowledge and skill of every learner to levels competitive with the best in the world, of preparing our college entrants to undertake advanced work in the mathematical sciences, and of readying the next generation for the jobs their world will demand.</p>
+<h3 style="padding-top: 1em; padding-bottom: 1em; text-align: center;">New Jersey Student Learning Standards for Mathematics</h3>
+<h4>Intent and Spirit</h4>
+<p>For more than a decade, research studies of mathematics education in high-performing countries have concluded that mathematics education in the United States must become substantially more focused and coherent in order to improve mathematics achievement in this country. To deliver on this promise, the 2016 New Jersey Student Learning Standards - Math (NJSLS-M) are designed to address the problem of a curriculum that is "a mile wide and an inch deep."</p>
+<p>The math standards provide <strong>clarity and specificity</strong> rather than broad general statements. The standards draw on the most important international models for <strong>mathematical practice</strong>, as well as research. They endeavor to follow the design envisioned by William Schmidt and Richard Houang (2002), by not only <strong>stressing conceptual understanding</strong> of key ideas, but also by continually returning to organizing principles (coherence) such as place value and the laws of arithmetic to structure those ideas.</p>
+<p>In addition, the "sequence of topics and performances" that is outlined in a body of math standards must respect what is already known about how students learn. As Confrey (2007) points out, developing "sequenced obstacles and challenges for students&hellip;absent the insights about meaning that derive from careful study of learning, would be unfortunate and unwise." Therefore, the development of the standards began with research-based learning progressions detailing what is known today about how students' mathematical knowledge, skill, and understanding develop over time. The knowledge and skills students need to be prepared for mathematics in college, career, and life are woven throughout the mathematics standards.</p>
+					</section>
+	
+
+
+					<section>
+	
+	
+			
+
+				
+						<h3 class="sectionTitle h5 accordion-header" id="heading_0"><button class="btn btn-link text-wrap text-left collapsed" data-deeplink="" data-toggle="collapse" data-target="#section_0" aria-expanded="false" aria-controls="0">Structure and Content Summary K-5<i class="fas fa-chevron-circle-down"></i><i class="fas fa-chevron-circle-up"></i></button></h3>
+		
+						<div id='section_0' class='collapse accordion-content' aria-labelledby='heading_0' aria-expanded='false'>
+	
+	
+							<p>An important feature of the New Jersey Student Learning Standards for Mathematics (NJSLS-M) is their organization into groups of related standards. In K&ndash;8, these groups are called domains and reflect an area of focus for the grade level. The K-5 domains and associated descriptions appear below.</p>
+<h5>Counting and Cardinality</h5>
+<p>The Counting and Cardinality domain begins with early rote counting and moves to counting to find how many in one group of objects. Learners build on this work to develop strategies to compare two concrete quantities, two number words and two numerals. Addition, subtraction, multiplication, and division grow from these early roots. This domain involves important ideas that need to be taught in ways that are interesting and engaging to young students.</p>
+<h5>Operations and Algebraic Thinking</h5>
+<p>The Operations and Algebraic Thinking domain deals with the basic operations, the kinds of quantitative relationships they model, and consequently the kinds of problems they can be used to solve as well as their mathematical properties and relationships. Although most of the standards organized under this heading involve whole numbers, the domain includes concepts, properties, and representations that extend to other number systems, to measures, and to algebra.</p>
+<h5>Number and Operations in Base Ten</h5>
+<p>The base-ten system is an efficient and uniform system for representing all numbers. Using only the ten digits 0 through 9, every number can be represented as a string of digits. Learners&rsquo; work with the base-ten system is intertwined with their work on counting and cardinality, and with the meanings and properties of addition, subtraction, multiplication, and division. Standard algorithms for base-ten computations with the four operations are included in this domain, with the standards distinguishing strategies from algorithms. Work with computation (i.e. addition, subtraction, multiplication, division) begins with the use of strategies and efficient, accurate, generalizable methods. For each operation, the culmination of the work is indicated in the standards by the use of the term &ldquo;standard algorithm&rdquo;.</p>
+<h5>Measurement and Data</h5>
+<p>Geometric measurement connects the two most critical domains of early mathematics, geometry and number, with each providing conceptual support to the other. Measurement, the process of assigning a number to a magnitude of some attribute, is central to mathematics, to other disciplines, especially science, and to activities in everyday life. Before learning to measure attributes, the attribute to be measured has to &ldquo;stand out&rdquo; for the student. Children need to recognize them and distinguishing them from other attributes (e.g. distinguish length from area).</p>
+<p>Students also work with data in grades K-5, building foundations for the later study of statistics and probability. the K&ndash;5 data standards run along two paths. One path involves categorical data and focuses on bar graphs as a way to represent and analyze such data. Categorical data comes from sorting objects into categories. The other path deals with measurement data - data that comes from taking measurements. Other ways to generate measurement data might include measuring liquid volumes with graduated cylinders or measuring room temperatures with a thermometer. In each case, the NJSLS-M call for students to represent measurement data with a line plot.</p>
+<h5>Number and Operation &ndash; Fractions</h5>
+<p>In the NJSLS-M, the word &ldquo;fraction&rdquo; is used to refer to a type of number. That number can be expressed in different ways. It can be written in the form numerator over denominator or in decimal notation. If it is greater than 1, it can be written in the form of a whole number followed by a number less than 1 written as a fraction (i.e., a mixed number). In later grades, each of these forms of fraction are considered rational numbers. Expectations for computing with fractions appear in the domains of Number and Operations&mdash;Fractions, Number and Operations in Base Ten, and the Number System.</p>
+<h5>Geometry</h5>
+<p>Like core knowledge of number, core geometrical knowledge seems to be a universal capability of the human mind. Geometric and spatial thinking are important in and of themselves, because they connect mathematics with the physical world, and play an important role in modeling phenomena whose origins are not necessarily physical (i.e. networks or graphs). They are also important because they support the development of number and arithmetic concepts and skills. Thus, geometry is essential for all grade levels for many reasons: its mathematical content, its roles in physical sciences, engineering, and many other subjects, and its strong aesthetic connections.</p>
+<p><small>Reference: Common Core Standards Writing Team. (2018). Progressions for the Common Core State Standards in Mathematics (August10 draft). Tucson, AZ: Institute for Mathematics and Education, University of Arizona</small></p>
+		
+	
+
+						</div>
+					</section>
+
+					<section>
+	
+	
+			
+
+				
+						<h3 class="sectionTitle h5 accordion-header" id="heading_1"><button class="btn btn-link text-wrap text-left collapsed" data-deeplink="" data-toggle="collapse" data-target="#section_1" aria-expanded="false" aria-controls="1">Structure and Content Summary 6-HS<i class="fas fa-chevron-circle-down"></i><i class="fas fa-chevron-circle-up"></i></button></h3>
+		
+						<div id='section_1' class='collapse accordion-content' aria-labelledby='heading_1' aria-expanded='false'>
+	
+	
+							<p>An important feature of the New Jersey Student Learning Standards for Mathematics (NJSLS-M) is their organization into groups of related standards. In K&ndash;8, these groups are called domains and reflect an area of focus for the grade level. In high school, they are called conceptual categories. The grades 6-12 domains/conceptual categories and associated descriptions appear below.</p>
+<h5>Ratio and Proportional Relationships (6-7)</h5>
+<p>The study of ratios and proportional relationships extends students&rsquo; work in measurement and in multiplication and division in the elementary grades. Ratios and proportional relationships are foundational for further study in mathematics and science and useful in everyday life. Students use ratios in geometry and in algebra when they study similar figures and slopes of lines, and later when they study sine, cosine, tangent, and other trigonometric ratios in high school. Students use ratios when they work with situations involving constant rates of change, and later in calculus when they work with average and instantaneous rates of change of functions. An understanding of ratio is essential in the sciences to make sense of quantities that involve derived attributes such as speed, acceleration, density, surface tension, electric or magnetic field strength, and to understand percentages and ratios used in describing chemical solutions. Ratios and percentages are also useful in many situations in daily life, such as in cooking and in calculating tips, miles per gallon, taxes, and discounts. They also are also involved in a variety of descriptive statistics, including demographic, economic, medical, meteorological, and agricultural statistics.</p>
+<h5>Expressions and Equations (6-8)</h5>
+<p>In Grades 6&ndash;8, students start to use properties of operations to manipulate algebraic expressions and to produce different but equivalent expressions for different purposes. An expression expresses something. Facial expressions express emotions. Mathematical expressions express calculations with numbers. Some of the numbers might be given explicitly, like 2 or .75. Other numbers in the expression might be represented by letters, such as x, y, P, or n. The calculation an expression represents might use only a single operation, as in 4 + 3 or 3x. Or it might use a series of nested or parallel operations, as in 3(a + 9).</p>
+<p>An expression is a phrase in a sentence about a mathematical or real-world situation. As with a facial expression, you can read a lot from an algebraic expression without knowing the story behind it. It is a goal of this domain for students to see expressions as objects, and to read both the general appearance and fine details of algebraic expressions.</p>
+<h5>The Number System (6-HS)</h5>
+<p>In Grades 6&ndash;8 students began to widen the possible types of number they can conceptualize on the number line. In Grade 8 students glimpse the existence of irrational numbers. In high school, they undertake a systematic study of functions that can take on irrational values, such as exponential, logarithmic, and power functions. The study of such functions brings with it a need for an extended understanding of the meaning of an exponent. The first step in this direction is the understanding of numerical expressions in which the exponent is not a whole number.</p>
+<h5>Geometry (6-HS)</h5>
+<p>Geometry has two important streams that begin in elementary grades: understanding properties of geometric figures and the logical connections between them, and developing and using formulas to compute lengths, areas and volumes. A third stream, coordinate geometry, surfaces in Grade 5, gains importance in Grades 6&ndash;8, and mingles with algebra to become analytic geometry in high school. Informal understandings of congruence and similarity emerge in middle school with congruence criteria appearing in high school. High school students analyze transformations that include dilations, understanding similarity in terms of rigid motions and dilations. Students prove theorems, using the properties of rigid motions established in Grade 8 and the properties of dilations established in high school.</p>
+<p>In Grades 6&ndash;8, students apply geometric measurement to real-world and mathematical problems, making use of properties of figures as they dissect and rearrange them in order to calculate or estimate lengths, areas, and volumes. Use of geometric measurement continues in high school. Students examine it more closely, giving informal arguments to explain formulas used in earlier grades. Students leverage analytic geometry as they express geometric properties with equations and use coordinates to prove geometric theorems algebraically.</p>
+<h5>Statistics and Probability (6&ndash;HS)</h5>
+<p>Students build on the knowledge and experiences in data analysis developed in earlier grades. They develop a deeper understanding of variability and more precise descriptions of data distributions, using numerical measures of center and spread, and terms such as cluster, peak, gap, symmetry, skew, and outlier. They begin to use histograms and box plots to represent and analyze data distributions. Students then move from concentrating on analysis of data to production of data, understanding that good answers to statistical questions depend upon a good plan for collecting data relevant to the questions of interest. Because statistically sound data production is based on random sampling, a probabilistic concept, students must develop some knowledge of probability before launching into sampling. Their introduction to probability is based on seeing probabilities of chance events as long-run relative frequencies, and many opportunities to develop the connection between theoretical probability models and empirical probability approximations. This connection forms the basis of statistical inference.</p>
+<p>In high school, students build on knowledge and experience de-scribed in the 6-8 Statistics and Probability Progression. They develop a more formal and precise understanding of statistical inference, which requires a deeper understanding of probability. Students learn that formal inference procedures are designed for studies in which the sampling or assignment of treatments was random, and these procedures may not be informative when analyzing non-randomized studies, often called observational studies. For example, a random selection of 100 students from your school will allow you to draw some conclusion about all the students in the school, whereas taking your class as a sample will not allow that generalization. Probability is still viewed as long-run relative frequency, but the emphasis now shifts to conditional probability and independence, and basic rules for calculating probabilities of compound events. Probability is presented as an essential tool for decision-making in a world of uncertainty.</p>
+<h5>Functions (8-HS)</h5>
+<p>Functions describe situations in which one quantity is determined by another. The area of a circle, for example, is a function of its radius. When describing relationships between quantities, the defining characteristic of a function is that the input value determines the output value. The notion of a function is introduced in Grade 8. Linear functions are a major focus but note that students are also expected to give examples of functions that are not linear. In high school, students deepen their understanding of the notion of function, expanding their repertoire to include quadratic and exponential functions, and increasing their understanding of correspondences between geometric transformations of graphs of functions and algebraic transformations of the associated equations.</p>
+<h5>Algebra</h5>
+<p>Two Grades 6&ndash;8 domains are important in preparing students for Algebra in high school. The Number System prepares students to see all numbers as part of a unified system and become fluent in finding and using the properties of operations to find the values of numerical expressions that include those numbers. The standards of the Expressions and Equations domain ask students to extend their use of these properties to linear equations and expressions with letters. These extend uses of the properties of operations in earlier grades.</p>
+<p>The Algebra category in high school is very closely allied with the Functions category. An expression in one variable can be viewed as defining a function. An equation in two variables can sometimes be viewed as defining a function. The notion of equivalent expressions can be understood in terms of functions. Because of these connections, some curricula take a functions-based approach to teaching algebra, in which functions are introduced early and used as a unifying theme for algebra. Other approaches introduce functions later, after extensive work with expressions and equations.</p>
+<p>Reference: Common Core Standards Writing Team. (2018). Progressions for the Common Core State Standards in Mathematics (August10 draft). Tucson, AZ: Institute for Mathematics and Education, University of Arizona</p>
+		
+	
+
+						</div>
+					</section>
+
+					<section>
+	
+	
+			
+
+				
+						<h3 class="sectionTitle h5 accordion-header" id="heading_2"><button class="btn btn-link text-wrap text-left collapsed" data-deeplink="" data-toggle="collapse" data-target="#section_2" aria-expanded="false" aria-controls="2">Standards for Mathematical Practice<i class="fas fa-chevron-circle-down"></i><i class="fas fa-chevron-circle-up"></i></button></h3>
+		
+						<div id='section_2' class='collapse accordion-content' aria-labelledby='heading_2' aria-expanded='false'>
+	
+	
+							<p>The Standards for Mathematical Practice describe varieties of expertise that mathematics educators at all levels should seek to develop in their students. These practices rest on important &ldquo;processes and proficiencies&rdquo; with longstanding importance in mathematics education. The first of these are the NCTM process standards of problem solving, reasoning and proof, communication, representation, and connections. The second are the strands of mathematical proficiency specified in the National Research Council&rsquo;s report Adding It Up: adaptive reasoning, strategic competence, conceptual understanding (comprehension of mathematical concepts, operations and relations), procedural fluency (skill in carrying out procedures flexibly, accurately, efficiently and appropriately), and productive disposition (habitual inclination to see mathematics as sensible, useful, and worthwhile, coupled with a belief in diligence and one&rsquo;s own efficacy).</p>
+<h5>1. Make sense of problems and persevere in solving them.</h5>
+<p>Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, &ldquo;Does this make sense?&rdquo; They can understand the approaches of others to solving complex problems and identify correspondences between different approaches.</p>
+<h5>2. Reason abstractly and quantitatively.</h5>
+<p>Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize&mdash;to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents&mdash;and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects.</p>
+<h5>3. Construct viable arguments and critique the reasoning of others.</h5>
+<p>Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and&mdash;if there is a flaw in an argument&mdash;explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments.</p>
+<h5>4. Model with mathematics.</h5>
+<p>Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose.</p>
+<h5>5. Use appropriate tools strategically.</h5>
+<p>Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts.</p>
+<h5>6. Attend to precision.</h5>
+<p>Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions.</p>
+<h5>7. Look for and make use of structure.</h5>
+<p>Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 &times; 8 equals the well-remembered 7 &times; 5 + 7 &times; 3, in preparation for learning about the distributive property. In the expression x<sup>2</sup> + 9x + 14, older students can see the 14 as 2 &times; 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 &ndash; 3(x &ndash; y)<sup>2</sup> as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y.</p>
+<h5>8. Look for and express regularity in repeated reasoning.</h5>
+<p>Mathematically proficient students notice if calculations are repeated and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y &ndash; 2)/(x &ndash; 1) = 3. Noticing the regularity in the way terms cancel when expanding (x &ndash; 1)(x + 1), (x &ndash; 1)(x<sup>2</sup> + x + 1), and (x &ndash; 1)(x<sup>3</sup> + x<sup>2</sup> + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results</p>
+		
+	
+
+						</div>
+					</section>
+
+					<section>
+	
+	
+			
+
+				
+						<h3 class="sectionTitle h5 accordion-header" id="heading_3"><button class="btn btn-link text-wrap text-left collapsed" data-deeplink="" data-toggle="collapse" data-target="#section_3" aria-expanded="false" aria-controls="3">NJ Administrative Code and Statutes<i class="fas fa-chevron-circle-down"></i><i class="fas fa-chevron-circle-up"></i></button></h3>
+		
+						<div id='section_3' class='collapse accordion-content' aria-labelledby='heading_3' aria-expanded='false'>
+	
+	
+							<h5 style="padding-top: 1em;">Graduation Credit Requirement</h5>
+<p><a href="https://www.nj.gov/education/code/current/title6a/chap8.pdf">N.J.A.C. 6A:8-5.1(a)</a> For a State-endorsed diploma, district boards of education shall develop, adopt, and implement local graduation requirements that prepare students for success in post-secondary degree programs, careers, and civic life in the 21st century, and that include the following:</p>
+<ol>
+<li>Participation in a local program of study of not fewer than 120 credits in courses designed to meet all of the NJSLS, including, but not limited to, the following credits:</li>
+<li>At least 15 credits in mathematics, including algebra I or the content equivalent effective with the 2008-2009 grade nine class; geometry or the content equivalent effective with the 2010-2011 grade nine class; and a third year of mathematics that builds on the concepts and skills of algebra and geometry and that prepares students for college and 21st century careers effective with the 2012-2013 grade nine class.</li>
+</ol>
+		
+	
+
+						</div>
+					</section>
+
+
+
+				</div>
+
+
+
+				<div class="col-12 col-md-4 col-xl-3">
+
+
+
+	
+	
+					<div class="card related-info  mb-3">
+						<img class="card-img-top " src="/education/standards/images/Pictures/AdobeStock_458155708.jpeg" alt="Elementary students at a table working with math manipulatives with a teacher assisting" />
+			
+					</div>
+		
+	
+	
+
+	
+	
+	
+	
+					<div class="card related-info mb-3">
+						<h4 class="card-header related-title h5">2016 NJSLS-M</h4>
+						<ul class="list-group list-group-flush">
+			
+
+							<li class='list-group-item '>
+				
+				
+								<ul>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_K-12.pdf">K-12</a></li>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_Kindergarten.pdf">Kindergarten</a></li>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_Grade1.pdf">First Grade</a></li>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_Grade2.pdf">Second Grade</a></li>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_Grade3.pdf">Third Grade</a></li>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_Grade4.pdf">Fourth Grade</a></li>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_Grade5.pdf">Fifth Grade</a></li>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_Grade6.pdf">Sixth Grade</a></li>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_Grade7.pdf">Seventh Grade</a></li>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_Grade8.pdf">Eighth Grade</a></li>
+<li><a href="/education/standards/math/Docs/2016NJSLS-M_HighSchool.pdf">High School</a></li>
+</ul>
+				
+							</li>
+			
+						</ul>
+					</div>
+
+		
+
+	
+	
+	
+	
+					<div class="card related-info mb-3">
+						<h4 class="card-header related-title h5">What's New</h4>
+						<ul class="list-group list-group-flush">
+			
+
+							<li class='list-group-item '>
+				
+				
+								<ul style="list-style-type: disc;">
+<li><a href="https://www.innovatestemnj.org/"><span data-contrast="none">NJ STEM Innovation Fellowship</span></a></li>
+<li><a href="https://www.learningtrajectories.org/"><span data-contrast="none">Learning Trajectories</span></a></li>
+</ul>
+				
+							</li>
+			
+						</ul>
+					</div>
+
+		
+
+
+
+				</div>
+
+
+
+
+			</div>
+		</div>
+
+		
+
+
+		<div class='container-fluid lt-blue-bar'>
+			<div class="row justify-content-center  py-5">
+				<div class="col-12 col-xl-10">
+					
+	
+	
+					
+					<div class="row justify-content-center">
+			
+
+				
+				
+					
+					
+					
+					
+				
+
+						<div class="col-12 col-sm-6 col-md-4 mb-3">
+							<div class="card border-0  bg-transparent text-center">
+								<div class="card-body p-0">
+								<a href="/education/standards/math/mathcurriculum.shtml" target="">
+									<p><i class='school none fa-3x icon'></i></p>
+				
+									<p class="font-weight-bold ">Supporting Resources</p>
+					
+								</a>
+				
+								</a>
+				
+				
+									<p style="text-align: center;"><img src="/education/standards/images/Pictures/AdobeStock_202458450.jpeg" alt="Middle school age girl doing math at the white board" width="300" style="display: block; margin-left: auto; margin-right: auto;" />Prerequisite Concepts &amp; Skills and Instructional Units</p>
+					
+								</div>
+							</div>
+						</div>
+			
+
+				
+				
+					
+					
+					
+					
+				
+
+						<div class="col-12 col-sm-6 col-md-4 mb-3">
+							<div class="card border-0  bg-transparent text-center">
+								<div class="card-body p-0">
+								<a href="/education/standards/math/AlgebraTools.shtml" target="">
+									<p><i class='school none fa-3x icon'></i></p>
+				
+									<p class="font-weight-bold ">Algebra I Suite of Tools</p>
+					
+								</a>
+				
+								</a>
+				
+				
+									<p><img src="/education/standards/images/Pictures/AdobeStock_436762235.jpeg" alt="Elementary students sitting at table with teacher presenting information on a laptop" width="300" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+					
+								</div>
+							</div>
+						</div>
+			
+					</div>
+		
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+				</div>
+			</div>
+		</div>
+
+		<div class='container-fluid '>
+			<div class="row justify-content-center  py-5">
+				<div class="col-12 col-xl-10">
+					
+	
+	
+	
+
+	
+	
+	
+					
+					<!--Supports: [Row Heading [ Alignment][Heading][Subheading]] [CARD [Heading][Heading Alignment]  [Text]]+ -->
+					
+			
+			
+					
+					<div class="row justify-content-center">
+			
+			
+					
+							
+						
+						<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3 d-flex">
+							<div class="card  w-100">
+								<div class="card-header font-weight-bold card-header-blue text-center">
+									Contact Us
+								</div>
+								<div class="card-body pb-2">
+									<p style="text-align: center;"><strong>Dr. Deidre Richardson</strong></p>
+<p style="text-align: center;"><strong>Mathematics Coordinator</strong></p>
+<p style="text-align: center;"><a href="mailto:standards@doe.nj.gov">standards@doe.nj.gov</a></p>
+<p style="text-align: center;">&nbsp;</p>
+								</div>
+
+							</div>
+						</div>
+			
+					</div>
+		
+	
+
+	
+	
+	
+	
+	
+	
+				</div>
+			</div>
+		</div>
+
+		<div class='container-fluid lt-blue-bar'>
+			<div class="row justify-content-center  py-5">
+				<div class="col-12 col-xl-10">
+					
+	
+			
+			
+					
+					<div class="row justify-content-center text-center">
+						<div class="col-12">
+				
+							<p class="h1"></p>
+					
+				
+				
+				
+							<p style="text-align: justify;">The resources provided on this webpage are for informational purposes only. All resources must meet the New Jersey Department of Education&rsquo;s (NJDOE) accessibility guidelines. Currently, the NJDOE aims to conform to Level AA of the&nbsp;<a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines</a> (WCAG 2.1). However, the NJDOE does not guarantee that linked external sites conform to Level AA of the WCAG 2.1. Neither NJDOE nor its officers, employees or agents specifically endorse, recommend or favor these resources or the organizations that created them. Please note that the NJDOE has not reviewed or approved the materials related to the programs.</p>
+						</div>
+					</div>
+				
+		
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+				</div>
+			</div>
+		</div>
+
+
+		
+	</main>
+
+
+
+
+	<div class="container-fluid " id="modifiedTimestamp">
+		<div class="row justify-content-center  py-1">
+			Page Last Updated: 11/18/2022
+		</div>
+	</div>
+
+
+
+
+	
+
+	
+	<footer>
+		
+
+	<div class="footer site-footer" >
+		<div class="container-fluid"> 
+			<div class="row x-no-gutters justify-content-center">
+				<div class="col-lg-9 col-xl-8">
+					<h3><a href="/education/standards/">New Jersey Student Learning Standards</a></h3>
+					<div class="columned">
+
+						<ul>
+	
+							<li>
+								<h4><a href="/education/standards/index.shtml">NJSLS Home</a></h4>
+		
+							</li>
+		
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+						</ul>
+
+	
+						<ul>
+	
+							<li>
+								<h4><a href="/education/standards/contentnav">Content Areas</a></h4>
+				<ul  class="d-none d-md-flex">
+			<li><a href="/education/standards/clicks/index.shtml">Career Readiness, Life Literacies & Key Skills</a></li>
+			<li><a href="/education/standards/chp/index.shtml">Comprehensive Health and Physical Education</a></li>
+			<li><a href="/education/standards/compsci/Index.shtml">Computer Science & Design Thinking</a></li>
+			<li><a href="/education/standards/ela/Index.shtml">English Language Arts</a></li>
+			<li><a href="/education/standards/math/Index.shtml">Mathematics</a></li>
+			<li><a href="/education/standards/science/Index.shtml">Science</a></li>
+			<li><a href="/education/standards/socst/index.shtml">Social Studies</a></li>
+			<li><a href="/education/standards/vpa/Index.shtml">Visual and Performing Arts</a></li>
+			<li><a href="/education/standards/worldlang/Index.shtml">World Languages</a></li>
+		</ul>
+
+							</li>
+		
+						</ul>
+
+	
+						<ul>
+	
+							<li>
+								<h4><a href="/education/standards/stamp">STAMP</a></h4>
+				<ul  class="d-none d-md-flex">
+			<li><a href="/education/standards/stamp/index.shtml">Standards Transparency and Mastery Platform (STAMP)​</a></li>
+			<li><a href="/education/standards/stamp/ta">Technical Assistance</a></li>
+		</ul>
+
+							</li>
+		
+						</ul>
+
+	
+							<!--
+							<ul>
+								<li><h4><a href="">Home</a></h4></li>
+							</ul>
+							<ul>
+								<li><h4><a href="">DOE A to Z</a></h4></li>
+							</ul>
+							<ul>
+								<li><h4><a href="">About Us</a></h4></li>
+							</ul>
+							<ul>
+								<li><h4><a href="">Programs</a></h4></li>
+							</ul>
+							<ul>
+								<li><h4><a href="">Data</a></h4></li>
+							</ul>
+							<ul>
+								<li><h4><a href="">News Room</a></h4></li>
+							</ul>
+							<ul>
+								<li><h4><a href="">Contact Us</a></h4></li>
+							</ul>
+							
+							<ul>
+								<li><h4><a href="">Primary Link</a></h4>
+									<ul class="d-none d-md-flex">
+									<li><a href="">Secondary Link</a></li>
+									<li><a href="">Secondary Link</a></li>
+									<li><a href="">Secondary Link</a></li>
+									<li><a href="">Secondary Link</a></li>
+									</ul>
+								</li>
+							</ul>
+							-->
+					</div>
+				</div>
+				<div class="col-lg-3 col-xl-2">
+										<h3>Statewide</h3>
+					<ul class="statewide d-inline-block float-left mr-1 mr-sm-5 mr-lg-0">
+						<li class=""><a href="//nj.gov/governor/admin/about/">Governor Phil Murphy</a></li>
+						<li class=""><a href="//nj.gov/governor/admin/lt/">Lt. Governor Tahesha Way</a></li>
+						<li><a href="//nj.gov/">NJ Home</a></li>
+						<li><a href="//nj.gov/nj/gov/njgov/alphaserv.html">Services A to Z</a></li>
+						<li><a href="//nj.gov/nj/gov/deptserv/">Departments/Agencies</a></li>
+						<li class="d-none d-lg-inline"><a href="https://nj.gov/faqs/"  aria-label="Frequently asked questions"><span aria-hidden="true">FAQs</span><span class="sr-only">Frequently Asked Questions</span></a></li>
+
+						<li><a href="//nj.gov/nj/feedback.html">Contact Us</a></li>
+						<li><a href="//nj.gov/nj/privacy.html">Privacy Notice</a></li>
+						<li><a href="//nj.gov/nj/legal.html">Legal Statement &amp; Disclaimers</a></li>
+						<li><a href="//nj.gov/nj/accessibility.html">Accessibility Statement</a></li>
+					</ul>
+					<img src="/nj/design/images/digital-nj.png" alt=" Digital NJ Logo (the letters N and J with the sillouette of the state of New Jersey knocked out)" class="digital-nj img-fluid max-width  float-left "/>
+				</div>
+			</div>
+		</div>
+	</div>
+
+ 
+		
+			<div class="footer sonj-footer" >
+		<div class="container-fluid"> 
+			<div class="row no-gutters justify-content-center">
+				<div class="col-sm-3 col-xl-2">
+										<a href="//nj.gov/opra/" class="mb-4 mr-4 d-inline-block  float-left"><img src="/nj/design/images/opra.png"  alt="Open Public Records Act (OPRA)" class="opra" /></a>
+
+										<a href="https://my.state.nj.us/openam/UI/Login" class="mb-4 d-inline-block float-left"><img src="/nj/design/images/myNJ.png"  alt="My New Jersey Portal" class="mynj" /></a> 
+				</div>
+				<div class="col-sm-9 col-xl-8  text-right">
+					<a href="https://twitter.com/NewJerseyDOE" class="ml-1 social"><i class="fab fa-twitter-square fa-2x sonj-white"></i><span class="sr-only">Twitter</span></a> 
+					<a href="https://www.facebook.com/njdeptofed/" class="ml-1 social"><i class="fab fa-facebook-square fa-2x sonj-white"></i><span class="sr-only">Facebook</span></a> 
+					<a href="https://www.instagram.com/newjerseydoe/" class="ml-1 social"><i class="fab fa-instagram fa-2x sonj-white"></i><span class="sr-only">Instagram</span></a> 
+					<br>
+					Copyright &copy; State of New Jersey, 1996-2020<br>
+					Department of Education<br>
+					PO Box 500, <br>
+					Trenton, NJ 08625-0500, <br>
+					(609)376-3500<br>
+				</div>
+			</div>
+			<div class="row no-gutters justify-content-center">
+				<div class="col-12 col-xl-10  text-right"><a href="https://www.tech.nj.gov"><img src="/nj/design/images/njoit.png"  alt="powered ny njoit"/></a></div>
+			</div>
+		</div>
+	</div>
+	
+	</footer>
+	
+	
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+			<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	<!-- Bootstrap core JavaScript -->
+	<!-- ================================================== -->
+	<script src="/nj/design/js/jquery-3.6.0.min.js" ></script>
+	<!-- /nj/design/js/jquery-3.3.1.min.js --> 
+	<script src="/nj/design/bootstrap/js/bootstrap.bundle.min.js" ></script>
+	<!-- /nj/design/js/bootstrap.bundle.min.js -->
+	<!-- new addition --> <script src="/nj/design/bootstrap/js/popper.min.js" ></script>
+	
+	
+	<!-- Font Awesome -->
+	<script defer src="/nj/design/fontawesome/js/all.js?v=5.14.0" ></script>
+	<!--<script defer src="//use.fontawesome.com/releases/v5.0.9/js/all.js" ></script>--> <!-- integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>-->
+	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+	<script src="/nj/design/js/ie10-viewport-bug-workaround.js"></script>
+	
+	<script src="/nj/design/js/sonj-header.js"></script>
+
+	<script src="/nj/design/js/sticky-social.js"></script>
+	
+	<script src="/nj/design/js/navigation.js"></script>
+	
+	<script type="text/javascript" src="/nj/design/util/slick/slick.min.js"></script>
+	<script src="/nj/design/js/slick-init.js"></script>
+
+	
+	<!-- Custom Libraries for this site -->
+<script src="/nj/design/fontawesome-pro-6.1.2/js/all.js?v=5.14.0" ></script> 
+<script src="/education/assets/scripts/bootstrapCarouselPause.js"></script>
+<script src="/education/assets/scripts/cookies.js"></script>
+
+
+<script async src="https://siteimproveanalytics.com/js/siteanalyze_6291948.js"></script>
+ 
+	
+		<a id="back-to-top" href="#" class="btn  btn-lg back-to-top" role="button" title=""><i class="fas fa-chevron-up"></i><br>Back<br>to top</a>
+	
+	<script>
+	 $(window).scroll(function () {
+			if ($(this).scrollTop() > 50) {
+				$('#back-to-top').fadeIn();
+			} else {
+				$('#back-to-top').fadeOut();
+			}
+		});
+		// scroll body to 0px on click
+		$('#back-to-top').click(function () {
+			$('#back-to-top').tooltip('hide');
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	</script>
+	
+	
+	
+	<!-- HASH include virtual="/education/assets/includes/webtrends.shtml" -->
+<!-- Removed 6/7/2023 -->
+	
+
+
+
+
+	
+
+
+	
+
+	
+</body>
+</html>
+
