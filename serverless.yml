@@ -18,33 +18,11 @@ provider:
         path: src/
         buildArgs:
           DATA_PATH: ui/
-      anchorbot:
-        path: src/
-        buildArgs:
-          DATA_PATH: anchor/
-      tdibot:
-        path: src/
-        buildArgs:
-          DATA_PATH: tdi/
 functions:
   ui:
     environment:
-      PROGRAM_NAME: Unemployment Insurance in New Jersey
+      PROGRAM_NAME: New Jersey Student Learning Standards for Mathematics
     image:
       name: uibot
-    url:
-      cors: true
-  anchor:
-    environment:
-      PROGRAM_NAME: ANCHOR program in New Jersey
-    image:
-      name: anchorbot
-    url:
-      cors: true
-  tdi:
-    environment:
-      PROGRAM_NAME: Temporary Disability and Family Leave Insurance
-    image:
-      name: tdibot
     url:
       cors: true
