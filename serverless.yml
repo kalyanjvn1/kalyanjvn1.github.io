@@ -1,4 +1,4 @@
-service: sample-ui-bot # NOTE: update this with your service name
+service: ui-bot # NOTE: update this with your service name
 
 frameworkVersion: "3"
 
