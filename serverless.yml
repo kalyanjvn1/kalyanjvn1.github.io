@@ -7,7 +7,7 @@ provider:
   runtime: python3.10
   memorySize: 2048
   timeout: 120
-  architecture: arm64
+  architecture: x86_64
   deploymentBucket:
     serverSideEncryption: AES256
   environment:
