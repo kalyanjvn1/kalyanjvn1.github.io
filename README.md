@@ -1,6 +1,6 @@
 # AI Q&A Bot
 
-This is an experiment, for reference only. Try here: https://newjersey.github.io/uibot/
+This is an experiment, for reference only. Try here: https://kalyanjvn1.github.io/
 
 
 Q&A bot using [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/). This is a simple implementation using OpenAI's models, but the documentation contains extensive customization options (including changing the LLM).
@@ -45,7 +45,7 @@ python ask.py
 
 ## Chatbot example
 
-- simple chatbot hosted on github pages: https://newjersey.github.io/uibot/
+- simple chatbot hosted on github pages: https://kalyanjvn1.github.io/
 
 ## Downloading website content to index
 
